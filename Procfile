@@ -1,0 +1,1 @@
+jmetertask: python jmetertaskscript.py
