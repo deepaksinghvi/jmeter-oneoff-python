@@ -1,0 +1,7 @@
+{
+  "name": "Jmeter Executor",
+  "description": "A JMeter Task Executor",
+  "repository": "https://github.com/deepaksinghvi/jmeter-oneoff-python",
+  "logo": "https://github.com/deepaksinghvi/jmeter-oneoff-python/perflogo.png",
+  "keywords": ["jmeter", "oneoffdynos", "dynos","productivity","perftest"]
+}
